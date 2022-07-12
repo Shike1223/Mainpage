@@ -4,7 +4,7 @@ authors:
 categories:
 - Blog
 - Daily
-date: "2022-07-13T00:00:00Z"
+date: "2022-07-12T00:00:00Z"
 draft: false
 featured: false
 image:
