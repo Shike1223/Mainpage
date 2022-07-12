@@ -1,52 +1,27 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Wastewater treatment plants (WWTPs) can account for up to 1% of a country's energy consumption. Meanwhile, WWTPs have high energy-saving potential. To achieve this, it is necessary to establish appropriate energy consumption models for WWTPs. Several recent models have been developed using logarithmic, exponential, or linear functions. However, the behavior of WWTPs is non-linear, and difficult to fit with simple functions particularly for non-numerical variables. Thus, traditional modeling methods cannot effectively describe the relationship between water and energy in WWTPs. Therefore, a machine learning method was adopted in this study to investigate the energy consumption in WWTPs; a novel energy consumption model with a non-numerical variable (discharge standard) for WWTPs was developed using the random forest algorithm. The model can also predict the energy consumption of WWTPs after upgrading discharge standards. We found that the unit electricity consumption of WWTPs exhibited an average increase of 17% after the effluent discharge standard was raised from Class I B to Class I A (per China’s classification). The correlation coefficient of the model was 0.702, and the Mean Squared Error was 0.0112 (kWh/m3)2, while the Mean Absolute Percentage Error was 6.86%. Thus, the developed model can provide a better understanding of energy efficiency in WWTPs.
 author_notes:
-- Equal contribution
-- Equal contribution
+- Fisrt Author
+- Corresponding Author
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Hongtao Wang
+- Arturo A. Keller
+date: "2021-01-30T00:00:00Z"
+doi: "2531-2540"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-projects:
-- example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags: []
-title: An example conference paper
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+publication: In *ES&T Water*
+publication_short: In *ES&T Water*
+
+title: Novel Machine Learning-based Energy Consumption Model of Wastewater Treatment Plants
+
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to cite with _.bib_ and the _PDF_ to view _.pdf_.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
