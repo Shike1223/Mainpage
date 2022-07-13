@@ -22,7 +22,7 @@ content:
       id:xnqwkyad
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
   # Contact details (edit or remove options as required)
   email: 1850111@tongji.edu.cn
