@@ -17,12 +17,12 @@ content:
 
   # Email form provider
   form:
-    provider: formspree
+    provider: netlify
     formspree:
       id: xnqwkyad
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: 1850111@tongji.edu.cn
