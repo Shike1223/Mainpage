@@ -27,10 +27,10 @@ social:
   link: 
 - icon: graduation-cap
   icon_pack: fas
-  link: 
+  link: https://www.tongji.edu.cn/
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/Novtune777
 - icon: linkedin
   icon_pack: fab
   link: 
