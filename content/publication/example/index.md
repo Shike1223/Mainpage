@@ -8,7 +8,7 @@ authors:
 - Hongtao Wang
 - Arturo A. Keller
 date: "2021-01-30T00:00:00Z"
-doi: "2531-2540"
+doi: "10.1021/acsestwater.1c00283"
 featured: true
 image:
   focal_point: ""

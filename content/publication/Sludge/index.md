@@ -1,5 +1,5 @@
 ---
-abstract: In this study, three types of sludge-derived biochars (BC1, BC2 and BC3) were prepared by 1) original sludge, 2) sludge after K2FeO4 conditioning, and 3) sludge after acidification + K2FeO4 conditioning. The results show that the biochar prepared from the conditioned sludge has additional functional groups, and its Pb2+ removal effect is greatly enhanced. The concentration of Pb2+ in the effluent can be reduced to <0.06 μg/L. The original sludge-derived biochar can only remove at most 58.02% of Pb2+. The maximum adsorption capacity of BC3 is six times greater than that of BC1. The ion exchange effect of Ca2+ and Mg2+ on the biochar surface and the complexation of free -OH or -COOH functional groups lead to an excellent adsorption effect on Pb2+. The sludge-derived biochar prepared after the conditioning of K2FeO4 can realize efficient removal of Pb2+, providing new initiatives for subsequent sludge resource utilization. .
+abstract: In this study, three types of sludge-derived biochars (BC<sub>1</sub>, BC<sub>2</sub> and BC<sub>3</sub>) were prepared by 1) original sludge, 2) sludge after K<sub>2</sub>FeO<sub>4</sub> conditioning, and 3) sludge after acidification + K<sub>2</sub>FeO<sub>4</sub> conditioning. The results show that the biochar prepared from the conditioned sludge has additional functional groups, and its Pb<sup>2+</sup> removal effect is greatly enhanced. The concentration of Pb2+ in the effluent can be reduced to <0.06 μg/L. The original sludge-derived biochar can only remove at most 58.02% of Pb<sup>2+</sup>. The maximum adsorption capacity of BC3 is six times greater than that of BC1. The ion exchange effect of Ca<sup>2+</sup> and Mg<sup>2+</sup> on the biochar surface and the complexation of free -OH or -COOH functional groups lead to an excellent adsorption effect on Pb<sup>2+</sup>. The sludge-derived biochar prepared after the conditioning of K<sub>2</sub>FeO<sub>4</sub> can realize efficient removal of Pb<sup>2+</sup>, providing new initiatives for subsequent sludge resource utilization. 
 author_notes:
 - Fisrt Author
 - Same Contribution
@@ -17,7 +17,7 @@ authors:
 - Jean-Marc Chovelon
 - Hongtao Wang
 date: "2021-01-30T00:00:00Z"
-doi: "2531-2540"
+doi: "10.1016/j.colcom.2021.100417"
 featured: true
 image:
   focal_point: ""

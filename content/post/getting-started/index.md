@@ -8,7 +8,7 @@ date: "2022-07-12T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'My Mood'
+  caption: 'Classmates & Teachers at [TJU](https://www.tongji.edu.cn/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -19,13 +19,12 @@ summary: "Welcome \U0001F44B this is my first post."
 tags:
 - Daily
 - Welcome
-title: My first post to celebrate my blog’s establishment.
+title: Celebrations
 ---
 
 ## Overview
 
 
 
- **Welcome to my blog** 
-
+ **Celebration of my graduation and establishment of Shike's Blog.I achieved Bachelor of Science in Environmrntal Science from [College of Environmental Science and Technology](https://sese.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in July, 2022.** 
 
