@@ -1,0 +1,7 @@
+网站地址修改后需修改config文件夹中congfig.yaml中的baseURL
+
+大部分网站修改位于content文件夹中
+
+menus修改位于config文件夹中的menus.yaml文件中
+
+contact使用formspree
