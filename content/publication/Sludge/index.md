@@ -27,10 +27,10 @@ projects:
 publication: In *Colloid and Interface Science Communications*
 publication_short: In *Colloid and Interface Science Communications*
 
-title: Preparation of a novel sludge-derived biochar by K2FeO4 conditioning to enhance the removal of Pb2+.
+title: Preparation of a novel sludge-derived biochar by K2FeO4 conditioning to enhance the removal of Pb2+
 
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to cite with _.bib_ and the _PDF_ to view _.pdf_.
+Click the _Cite_ button above to cite with _.bib_.
 {{% /callout %}}
