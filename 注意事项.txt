@@ -7,3 +7,5 @@ menus修改位于config文件夹中的menus.yaml文件中
 contact使用formspree
 
 修改图标搜索icon
+
+resume.pdf 位置：C:\Users\dell\Documents\GitHub\Mainpage\themes\starter-hugo-academic\static\uploads
