@@ -30,7 +30,7 @@ social:
   link: https://www.tongji.edu.cn/
 - icon: github
   icon_pack: fab
-  link: https://github.com/Novtune777
+  link: https://github.com/Shike1223
 - icon: linkedin
   icon_pack: fab
   link: 
