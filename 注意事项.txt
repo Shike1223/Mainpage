@@ -9,3 +9,5 @@ contact使用formspree
 修改图标搜索icon
 
 resume.pdf 位置：C:\Users\dell\Documents\GitHub\Mainpage\themes\starter-hugo-academic\static\uploads
+
+个人资料修改在：C:\Users\dell\Documents\GitHub\Mainpage\content\authors\admin中index.md中
