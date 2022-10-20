@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhangsk@umich.edu
-  phone: (+86)13816805260
+  phone: 'NA'
   address:
     street: 
     city: 
