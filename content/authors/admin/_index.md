@@ -8,7 +8,7 @@ education:
   - course: BS in Environmental Science
     institution: Tongji University
     year: 2018 - 2022
-email: "1850111@tongji.edu.cn"
+email: "zhangsk@umich.edu"
 highlight_name: true
 interests:
 - Numerical Simulation
