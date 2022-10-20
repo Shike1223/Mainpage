@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: 1850111@tongji.edu.cn
+  email: zhangsk@umich.edu
   phone: (+86)13816805260
   address:
     street: 
