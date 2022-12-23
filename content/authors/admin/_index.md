@@ -15,9 +15,9 @@ interests:
 - Ecological and Environmental Problems
 - Information Retrieval
 organizations:
-- name: Tongji University
-  url: https://www.tongji.edu.cn/
-role: Student
+- name: University of Michigan
+  url: https://seas.umich.edu/
+role: SEAS PHD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,7 +27,7 @@ social:
   link: 
 - icon: graduation-cap
   icon_pack: fas
-  link: https://www.tongji.edu.cn/
+  link: https://seas.umich.edu/
 - icon: github
   icon_pack: fab
   link: https://github.com/Shike1223
