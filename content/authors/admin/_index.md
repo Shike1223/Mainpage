@@ -38,6 +38,6 @@ superuser: true
 title: Shike Zhang
 ---
 
-I'm broadly interested in climate change and forecasting the impact of human activities to global phenology with ecological modeling. As a new PhD student, I'm now intending to enrich his knowledge in ecology and advanced statistical methods. I aim to use numerical models and simulations to analyze the feedbacks of human activities and alleviate the burden on ecosystem. I'm now guided by Dr. Kai Zhu together with Dr. Donald R. Zak and Dr. Inés Ibáñez as Interim Guidance Committee. I graduated from Department of Environmental Science and Technology, Tongji University in 2022 with a Bachelor of Science in Environmental Science.
+I'm broadly interested in climate change and forecasting the impact of human activities to global phenology with ecological modeling. As a new PhD student, I'm now intending to enrich his knowledge in ecology and advanced statistical methods. I aim to use numerical models and simulations to analyze the feedbacks of human activities and alleviate the burden on ecosystem. I'm now guided by [Dr. Kai Zhu](https://zhulab.seas.umich.edu/) together with Dr. Donald R. Zak and Dr. Inés Ibáñez as Interim Guidance Committee. I graduated from Department of [Environmental Science and Technology](https://sese.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in 2022 with a Bachelor of Science in Environmental Science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
