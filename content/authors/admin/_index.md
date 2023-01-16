@@ -33,7 +33,7 @@ social:
   link: https://github.com/Shike1223
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/shike-zhang-2a71b6262/
 superuser: true
 title: Shike Zhang
 ---
