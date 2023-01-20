@@ -27,17 +27,17 @@ content:
   # Contact details (edit or remove options as required)
   email: zhangsk@umich.edu
   phone: 'NA'
-  address:
-    street: 
-    city: 
-    region: 
-    postcode: '200433'
-    country: 
+  address: 
+    street: 440 Church St
+    city: Ann Arbor
+    region: MI
+    postcode: '48109'
+    country: US
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: NA
+    latitude: '42.272209'
+    longitude: '-83.734558'
+  directions: Samuel T. Dana Building
   office_hours:
     - 'NA'
     - 'NA'
