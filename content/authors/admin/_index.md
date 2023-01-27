@@ -24,7 +24,7 @@ social:
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/zhangsk1223
 - icon: graduation-cap
   icon_pack: fas
   link: https://seas.umich.edu/
