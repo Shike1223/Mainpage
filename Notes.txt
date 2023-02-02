@@ -10,6 +10,11 @@ contact使用formspree
 
 resume.pdf 位置：C:\Users\dell\Documents\GitHub\Mainpage\themes\starter-hugo-academic\static\uploads
 
+Mainpage\content\authors\admin中index.md can change the way to upload resume.pdf:
+1. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. Upload from local file (Mainpage\themes\starter-hugo-academic\static\uploads)
+2.{{< icon name="download" pack="fas" >}} Download my [resumé](https://docs.google.com/document/d/1wHGdqfv7OjW1lH6FhLWNqteiuxlsKP7e/edit?usp=sharing&ouid=101027145709429142519&rtpof=true&sd=true). From website, e.g. google doc.
+
 个人资料修改在：C:\Users\dell\Documents\GitHub\Mainpage\content\authors\admin中index.md中
 
 Privacy 放回content中 if needed
+
