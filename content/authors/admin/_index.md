@@ -27,7 +27,7 @@ social:
   link: https://twitter.com/zhangsk1223
 - icon: graduation-cap
   icon_pack: fas
-  link: https://seas.umich.edu/
+  link: https://seas.umich.edu/research/phd-profiles/shike-zhang
 - icon: github
   icon_pack: fab
   link: https://github.com/Shike1223
