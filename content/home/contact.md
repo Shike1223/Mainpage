@@ -39,8 +39,8 @@ content:
     longitude: '-83.734558'
   directions: Samuel T. Dana Building
   office_hours:
-    - 'NA'
-    - 'NA'
+    - 'Office Hours'
+    - '[Register](https://calendar.app.google/9niTeJ3o3jKaYEWq8)'
 
 design:
   columns: '2'
