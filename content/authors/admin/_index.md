@@ -16,7 +16,7 @@ interests:
 - Information Retrieval
 organizations:
 - name: University of Michigan
-  url: https://seas.umich.edu/
+  url: https://seas.umich.edu/research/phd-profiles/shike-zhang
 role: SEAS PHD Student
 social:
 - icon: envelope
