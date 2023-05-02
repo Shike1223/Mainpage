@@ -11,7 +11,7 @@ tags:
 - Wildfire
 - Biomass
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Fire Severity Map
   focal_point: Smart
 url_code: ''
 url_pdf: ''
