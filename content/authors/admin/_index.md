@@ -13,6 +13,7 @@ highlight_name: true
 interests:
 - Numerical Simulation
 - Ecological and Environmental Problems
+- Wildfire
 - Information Retrieval
 organizations:
 - name: University of Michigan
