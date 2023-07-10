@@ -45,6 +45,43 @@ Developed a new model to analyze the relationship between water qualities, both 
     url: 'https://sese.tongji.edu.cn/'
     
 
+  - certificate_url:
+    date_end: '2021-12-31'
+    date_start: '2019-09-01'
+    description: ''
+    organization: Shanghai Institute of Pollution Control and Ecological Security
+    organization_url: https://www.tongji.edu.cn/
+    title: 'Research Assistant'
+    url: ''
+
+  - certificate_url:
+    date_end: '2021-06-30'
+    date_start: '2019-06-01'
+    description: ''
+    organization: Korea University
+    organization_url: https://www.korea.ac.kr/mbshome/mbs/university/index.do
+    title: 'Exchange Student'
+    url: 'https://www.korea.ac.kr/mbshome/mbs/university/index.do'
+
+  - certificate_url:
+    date_end: ''
+    date_start: '2023-01-01'
+    description: '<b>Work:</b> Wildfire-burning vegetation is a common feature of western US landscapes and has profound effects on ecosystems and livelihoods. These trends are exacerbated by land management and climate change, resulting in more frequent and severe burning. Despite their importance, we lack a quantitative understanding of the biomass and carbon dynamics driven by wildfires. To address this knowledge gap, I propose a study that will use cutting-edge remote sensing data to examine the decadal-long effects of wildfires on vegetation biomass and carbon.
+'
+    organization: University of Michigan
+    organization_url: https://umich.edu/
+    title: 'PhD Student'
+    url: 'https://seas.umich.edu/research/phd-profiles/shike-zhang'
+
+  - certificate_url:
+    date_end: ''
+    date_start: '2023-07-01'
+    description: '<b>Work:</b> Wildfire-burning vegetation is a common feature of western US landscapes and has profound effects on ecosystems and livelihoods. These trends are exacerbated by land management and climate change, resulting in more frequent and severe burning. Despite their importance, we lack a quantitative understanding of the biomass and carbon dynamics driven by wildfires. To address this knowledge gap, I propose a study that will use cutting-edge remote sensing data to examine the decadal-long effects of wildfires on vegetation biomass and carbon.
+'
+    organization: Institute for Global Change Biology
+    organization_url: https://seas.umich.edu/globalchangebiology
+    title: 'Graduate Fellows'
+    url: 'https://seas.umich.edu/globalchangebiology/people'
 
 design:
   columns: '2'
