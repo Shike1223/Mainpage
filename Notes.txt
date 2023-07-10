@@ -18,3 +18,5 @@ Mainpage\content\authors\admin中index.md can change the way to upload resume.pd
 
 Privacy 放回content中 if needed
 
+experience 的icon在 “\Mainpage\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\v5\assets\media\icons\brands”
+
