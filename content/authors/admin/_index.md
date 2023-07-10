@@ -34,6 +34,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shike-zhang-2a71b6262/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=8Nm_CFEAAAAJ&hl=en
+- icon: cv
+  icon_pack: ai
+  link: https://docs.google.com/document/d/1wHGdqfv7OjW1lH6FhLWNqteiuxlsKP7e/edit#
 superuser: true
 title: Shike Zhang
 ---
