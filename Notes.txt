@@ -20,3 +20,5 @@ Privacy 放回content中 if needed
 
 experience 的icon在 “\Mainpage\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\v5\assets\media\icons\brands”
 
+主题颜色可以在D:\Github\Mainpage\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\v5\data\themes中的my_theme.toml修改
+
