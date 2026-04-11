@@ -8,10 +8,10 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-summary: National Water Pollution Control and Treatment Science and Technology Major Project [2017ZX07403002]
+summary: Water Pollution Control and Treatment Science and Technology Project 
 tags:
 - Sludge
-title: National Water Pollution Control and Treatment Science and Technology
+title:  Water Pollution Control and Treatment Science and Technology
 url_code: ""
 url_pdf: ""
 url_slides: ""
