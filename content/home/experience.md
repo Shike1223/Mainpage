@@ -55,8 +55,8 @@ Developed a new model to analyze the relationship between water qualities, both 
     url: ''
 
   - certificate_url:
-    date_end: '2021-06-30'
-    date_start: '2019-06-01'
+    date_end: '2021-07-01'
+    date_start: '2021-06-01'
     description: ''
     organization: Korea University
     organization_url: https://www.korea.ac.kr/mbshome/mbs/university/index.do
