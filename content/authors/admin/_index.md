@@ -4,7 +4,7 @@ education:
   courses:
   - course: SEAS PhD Program
     institution: University of Michigan, Ann Arbor
-    year: 2022 - present
+    year: 2023 - present
   - course: BS in Environmental Science
     institution: Tongji University
     year: 2018 - 2022
@@ -12,9 +12,9 @@ email: "zhangsk@umich.edu"
 highlight_name: true
 interests:
 - Numerical Simulation
-- Ecological and Environmental Problems
+- Ecological and environmental problems
 - Wildfire
-- Information Retrieval
+- LCA
 organizations:
 - name: University of Michigan
   url: https://seas.umich.edu/research/phd-profiles/shike-zhang
@@ -45,6 +45,6 @@ superuser: true
 title: Shike Zhang
 ---
 
-I'm now a PhD student in [School for Environment and Sustainability](https://seas.umich.edu/), University of Michigan and an [IGCB Graduate Fellow](https://seas.umich.edu/globalchangebiology/people). I'm broadly interested in climate change and forecasting the impact of human activities to global phenology with ecological modeling. As a new PhD student, I'm now intending to enrich my knowledge in ecology and advanced statistical methods. I aim to use numerical models and simulations to analyze the feedbacks of human activities and alleviate the burden on ecosystem. I'm now guided by [Dr. Kai Zhu](https://zhulab.seas.umich.edu/). I graduated from Department of [Environmental Science and Technology](https://sese.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in 2022 with a Bachelor of Science in Environmental Science.
+I am currently a PhD candidate in the [School for Environment and Sustainability](https://seas.umich.edu/) at the University of Michigan and an [IGCB Graduate Fellow](https://seas.umich.edu/globalchangebiology/people), advised by [Dr. Kai Zhu](https://zhulab.seas.umich.edu/). My research interests broadly include climate change, wildfire, ecosystem carbon dynamics, ecological forecasting, and human impacts on terrestrial ecosystems. My current work uses ecological modeling, numerical simulations, and spatial analysis to understand carbon–climate feedbacks and inform climate mitigation and ecosystem management strategies. I received my B.S. in Environmental Science from the Department of [Environmental Science and Technology](https://sese.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2022.
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://docs.google.com/document/d/1wHGdqfv7OjW1lH6FhLWNqteiuxlsKP7e/edit?usp=sharing&ouid=101027145709429142519&rtpof=true&sd=true)
